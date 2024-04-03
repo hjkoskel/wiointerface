@@ -1,0 +1,12 @@
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 h1:El6M4kTTCOh6aBiKaUGG7oYTSPP8MxqL4YI3kZKwcP4=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3pAXIBCelhxNneeOaAeabZDe5s4K6zSpQ=
+github.com/hjkoskel/BME280golib v0.2.0 h1:9+XPeS8iHKz/YwmtyRAGfE7T59A+Zmvqd5fh4oaq7jI=
+github.com/hjkoskel/BME280golib v0.2.0/go.mod h1:gOJHzad4GmjXGvwipdb1dbJgrOiCiS+QpI3JtZO5c8E=
+github.com/hjkoskel/gomonochromebitmap v0.1.0-beta.2 h1:4F1SkjeGV8kzimXNqSj8ce0RwVu6upCfoTBtNdK+leE=
+github.com/hjkoskel/gomonochromebitmap v0.1.0-beta.2/go.mod h1:sOi2IwdYTIzb4jU5uQG0+X43EPreNB0gYmfpRXi2t8Q=
+github.com/hjkoskel/wiointerface v0.0.3 h1:W73MYms1QcR1lDIJWUoIhe1jb2fl6EOHAk+dhQF6wME=
+github.com/hjkoskel/wiointerface v0.0.3/go.mod h1:qBeI/HG3exYYexEJ1Jr6NxlckhxnyOiH31BdhV7AgrA=
+github.com/veandco/go-sdl2 v0.4.38 h1:lx8syOA2ccXlgViYkQe2Kn/4xt+p9mdd1Qc/yYMrmSo=
+github.com/veandco/go-sdl2 v0.4.38/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
+tinygo.org/x/drivers v0.27.0 h1:TEGk1lQvEhXxfvpEhUu+pwmCnhtldPI+hpHlO9VYixI=
+tinygo.org/x/drivers v0.27.0/go.mod h1:q/mU8G/wz821p8xXqbkBACOlmZFDHXd//DnYnCW+dDQ=
