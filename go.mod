@@ -1,4 +1,4 @@
-module wiointerface
+module github.com/hjkoskel/wiointerface
 
 go 1.22.1
 
